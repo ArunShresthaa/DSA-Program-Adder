@@ -1,0 +1,60 @@
+G:\C#\Program Adder\Program Adder\bin\Release\Program Adder.exe.config
+G:\C#\Program Adder\Program Adder\bin\Release\Program Adder.exe
+G:\C#\Program Adder\Program Adder\bin\Release\Program Adder.pdb
+G:\C#\Program Adder\Program Adder\obj\Release\Program Adder.csproj.AssemblyReference.cache
+G:\C#\Program Adder\Program Adder\obj\Release\Program_Adder.Form1.resources
+G:\C#\Program Adder\Program Adder\obj\Release\Program_Adder.frmadd.resources
+G:\C#\Program Adder\Program Adder\obj\Release\Program_Adder.frmdashboard.resources
+G:\C#\Program Adder\Program Adder\obj\Release\Program_Adder.frmdelete.resources
+G:\C#\Program Adder\Program Adder\obj\Release\Program_Adder.frminstall.resources
+G:\C#\Program Adder\Program Adder\obj\Release\Program_Adder.frminstallerror.resources
+G:\C#\Program Adder\Program Adder\obj\Release\Program_Adder.Properties.Resources.resources
+G:\C#\Program Adder\Program Adder\obj\Release\Program Adder.csproj.GenerateResource.cache
+G:\C#\Program Adder\Program Adder\obj\Release\Program Adder.csproj.CoreCompileInputs.cache
+G:\C#\Program Adder\Program Adder\obj\Release\Program Adder.exe
+G:\C#\Program Adder\Program Adder\obj\Release\Program Adder.pdb
+G:\C#\C++ Program Adder\Program Adder\bin\Release\Program Adder.exe.config
+G:\C#\C++ Program Adder\Program Adder\bin\Release\Program Adder.exe
+G:\C#\C++ Program Adder\Program Adder\bin\Release\Program Adder.pdb
+G:\C#\C++ Program Adder\Program Adder\obj\Release\Program Adder.csproj.AssemblyReference.cache
+G:\C#\C++ Program Adder\Program Adder\obj\Release\Program_Adder.Form1.resources
+G:\C#\C++ Program Adder\Program Adder\obj\Release\Program_Adder.frmadd.resources
+G:\C#\C++ Program Adder\Program Adder\obj\Release\Program_Adder.frmdashboard.resources
+G:\C#\C++ Program Adder\Program Adder\obj\Release\Program_Adder.frmdelete.resources
+G:\C#\C++ Program Adder\Program Adder\obj\Release\Program_Adder.frminstall.resources
+G:\C#\C++ Program Adder\Program Adder\obj\Release\Program_Adder.Properties.Resources.resources
+G:\C#\C++ Program Adder\Program Adder\obj\Release\Program Adder.csproj.GenerateResource.cache
+G:\C#\C++ Program Adder\Program Adder\obj\Release\Program Adder.csproj.CoreCompileInputs.cache
+G:\C#\C++ Program Adder\Program Adder\obj\Release\Program Adder.exe
+G:\C#\C++ Program Adder\Program Adder\obj\Release\Program Adder.pdb
+G:\C#\C++ Program Adder\Program Adder\obj\Release\Program_Adder.frmedit.resources
+C:\Users\Arun Shrestha\Desktop\DSA Program Adder\bin\Release\Program Adder.exe.config
+C:\Users\Arun Shrestha\Desktop\DSA Program Adder\bin\Release\Program Adder.exe
+C:\Users\Arun Shrestha\Desktop\DSA Program Adder\bin\Release\Program Adder.pdb
+C:\Users\Arun Shrestha\Desktop\DSA Program Adder\obj\Release\Program Adder.csproj.AssemblyReference.cache
+C:\Users\Arun Shrestha\Desktop\DSA Program Adder\obj\Release\Program_Adder.Form1.resources
+C:\Users\Arun Shrestha\Desktop\DSA Program Adder\obj\Release\Program_Adder.frmadd.resources
+C:\Users\Arun Shrestha\Desktop\DSA Program Adder\obj\Release\Program_Adder.frmdashboard.resources
+C:\Users\Arun Shrestha\Desktop\DSA Program Adder\obj\Release\Program_Adder.frmdelete.resources
+C:\Users\Arun Shrestha\Desktop\DSA Program Adder\obj\Release\Program_Adder.frmedit.resources
+C:\Users\Arun Shrestha\Desktop\DSA Program Adder\obj\Release\Program_Adder.frminstall.resources
+C:\Users\Arun Shrestha\Desktop\DSA Program Adder\obj\Release\Program_Adder.Properties.Resources.resources
+C:\Users\Arun Shrestha\Desktop\DSA Program Adder\obj\Release\Program Adder.csproj.GenerateResource.cache
+C:\Users\Arun Shrestha\Desktop\DSA Program Adder\obj\Release\Program Adder.csproj.CoreCompileInputs.cache
+C:\Users\Arun Shrestha\Desktop\DSA Program Adder\obj\Release\Program Adder.exe
+C:\Users\Arun Shrestha\Desktop\DSA Program Adder\obj\Release\Program Adder.pdb
+G:\C#\Program Adders\DSA Program Adder\bin\Release\Program Adder.exe.config
+G:\C#\Program Adders\DSA Program Adder\bin\Release\Program Adder.exe
+G:\C#\Program Adders\DSA Program Adder\bin\Release\Program Adder.pdb
+G:\C#\Program Adders\DSA Program Adder\obj\Release\Program Adder.csproj.AssemblyReference.cache
+G:\C#\Program Adders\DSA Program Adder\obj\Release\Program_Adder.Form1.resources
+G:\C#\Program Adders\DSA Program Adder\obj\Release\Program_Adder.frmadd.resources
+G:\C#\Program Adders\DSA Program Adder\obj\Release\Program_Adder.frmdashboard.resources
+G:\C#\Program Adders\DSA Program Adder\obj\Release\Program_Adder.frmdelete.resources
+G:\C#\Program Adders\DSA Program Adder\obj\Release\Program_Adder.frmedit.resources
+G:\C#\Program Adders\DSA Program Adder\obj\Release\Program_Adder.frminstall.resources
+G:\C#\Program Adders\DSA Program Adder\obj\Release\Program_Adder.Properties.Resources.resources
+G:\C#\Program Adders\DSA Program Adder\obj\Release\Program Adder.csproj.GenerateResource.cache
+G:\C#\Program Adders\DSA Program Adder\obj\Release\Program Adder.csproj.CoreCompileInputs.cache
+G:\C#\Program Adders\DSA Program Adder\obj\Release\Program Adder.exe
+G:\C#\Program Adders\DSA Program Adder\obj\Release\Program Adder.pdb
